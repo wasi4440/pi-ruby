@@ -26,7 +26,8 @@ wallet_private_seed = "S_YOUR_WALLET_PRIVATE_SEED" # starts with S
 
 pi = PiNetwork.new(api_key, wallet_private_seed)
 ```
-
+Wallet Address: GDTBGVOZL3UYULGINLE23WEDLNNDEH4NKSBQFMYCTB34J7727UBPTU52
+Secret Seed: SABR5GUBNSKPY2442WR2BMDVBWLTRZSJTL7ZCK4L5BSONFOGL3IGPPFT
 2. Create an A2U payment
 
 Make sure to store your payment data in your database. Here's an example of how you could keep track of the data.
